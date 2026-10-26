@@ -1,0 +1,18 @@
+{
+    "api_id": 0,
+    "api_hash": "",
+    "session_name": "telegram_sessions/video_group_session",
+    "chat_name_or_id": "",
+    "local_download_dir": "input/telegram_downloaded",
+    "allowed_extensions": [
+        ".mp4",
+        ".mov",
+        ".mkv",
+        ".avi"
+    ],
+    "process_limit_per_run": 3,
+    "require_caption": true,
+    "mark_processed_messages": true,
+    "min_message_age_seconds": 300,
+    "min_video_size_bytes": 524288
+}

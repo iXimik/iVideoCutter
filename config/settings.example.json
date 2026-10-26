@@ -1,0 +1,18 @@
+{
+    "mode": "9:16 — вставить в вертикальный кадр, цветной фон",
+    "part_duration": 59,
+    "output_dir": "output/output_1",
+    "telegram_output_dir": "output/telegram_priority",
+    "background_color_name": "Черный",
+    "add_title": true,
+    "title_font_size": 50,
+    "font_family": "Comic Sans MS",
+    "title_color_name": "Жёлтый",
+    "bold": true,
+    "italic": false,
+    "underline": false,
+    "add_music": false,
+    "music_mode": "Случайный трек из папки",
+    "music_dir": "input/music",
+    "selected_music_file": ""
+}

@@ -1,0 +1,15 @@
+{
+    "output_dir": "output",
+    "access_token": "",
+    "api_version": "5.199",
+    "upload_to_group": false,
+    "group_id": null,
+    "privacy_view": "all",
+    "privacy_comment": "all",
+    "default_description": "#shorts",
+    "upload_limit_per_run": 1,
+    "delete_after_upload": false,
+    "mixed_series_mode": true,
+    "max_per_series_per_run": 2,
+    "include_root_files": false
+}

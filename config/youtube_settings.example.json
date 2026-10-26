@@ -1,0 +1,17 @@
+{
+    "output_dir": "output",
+    "privacy_status": "private",
+    "default_description": "#shorts",
+    "default_tags": [
+        "shorts",
+        "video",
+        "youtube shorts"
+    ],
+    "category_id": "22",
+    "made_for_kids": false,
+    "upload_limit_per_run": 1,
+    "delete_after_upload": false,
+    "mixed_series_mode": true,
+    "max_per_series_per_run": 2,
+    "include_root_files": false
+}
